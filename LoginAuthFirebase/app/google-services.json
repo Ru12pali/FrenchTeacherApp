@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776168676997",
+    "project_id": "loginregisterfirebase-b251c",
+    "storage_bucket": "loginregisterfirebase-b251c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776168676997:android:6db590159c178ed75153ec",
+        "android_client_info": {
+          "package_name": "com.mastercoding.loginauthfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JzZk0rn5n-NnCFlP9Oc_gfd1PGk1PoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
